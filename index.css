@@ -1,0 +1,15 @@
+.width {
+    width: 1440px;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.counter_wraper {
+display: flex;
+justify-content: space-around;
+}
+p {
+    font-size: 100px;
+}

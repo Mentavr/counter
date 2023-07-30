@@ -1,0 +1,20 @@
+{
+  "name": "counter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mentavr/counter.git"
+  },
+  "author": "Arrtem Bykov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mentavr/counter/issues"
+  },
+  "homepage": "https://github.com/Mentavr/counter#readme",
+}
