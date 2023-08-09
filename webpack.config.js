@@ -8,11 +8,10 @@ module.exports = {
     filename: 'bundle.js',
     path: path.resolve(__dirname, 'dist'),
    },
-  
-  devServer: {
+   devServer: {
     open: true,
     host: 'localhost',
-    port:0,
+    port: 3000,
   },
   plugins: [
     new HtmlWebpackPlugin({template: 'index.html'}),
